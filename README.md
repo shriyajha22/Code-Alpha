@@ -1,4 +1,4 @@
-<h2>Codeaplha_tasks</h2>
+<h2>CodeAplha_tasks</h2>
 
 TASK 1 : BASIC CHATBOT WITH RULE-BASED RESPONSES
 
